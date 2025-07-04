@@ -522,7 +522,7 @@ h6 {
   display: block;
   width: 26px;
   aspect-ratio: 1;
-  background: url(.//iconss/plus.svg) center/contain no-repeat;
+  background: url(../iconss/plus.svg) center/contain no-repeat;
 
 }
 
@@ -642,7 +642,7 @@ h6 {
   justify-content: center;
   align-items: center;
   padding: 150px 30px;
-  background: url(../imgas/JoinUsBack.jpg) center/cover no-repeat var(--color-dark-alternative);
+  background: url(imgas/JoinUsBack.jpg) center/cover no-repeat var(--color-dark-alternative);
 
 }
 
