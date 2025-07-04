@@ -434,7 +434,7 @@ h6 {
   width: clamp(32px, 10.1vw, 194px);
   aspect-ratio: 1;
   margin-right: 30px;
-  background: url(/iconss/h1-rev-icon-1.png.svg) center/contain no-repeat;
+  background: url(../iconss/h1-rev-icon-1.png.svg) center/contain no-repeat;
   background-color: var(--color-dark-alternative);
 }
 
